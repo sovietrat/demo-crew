@@ -1,0 +1,3 @@
+game:GetService("Players").LocalPlayer.gamepass_stats.hasAlibi.Value = true
+game:GetService("Players").LocalPlayer.gamepass_stats.hasDoubleXP.Value = true
+game:GetService("Players").LocalPlayer.gamepass_stats.hasDoubleMoney.Value = true
